@@ -1,0 +1,6 @@
+name: SurvivalSetSpawnerLimiter
+version: '${project.version}'
+main: vip.floatationdevice.survivalsetspawnerlimiter.SurvivalSetSpawnerLimiter
+api-version: 1.13
+authors: [ MCUmbrella ]
+description: Prevent players from setting spawner block in survival mode
